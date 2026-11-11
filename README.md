@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lym8467)](https://solved.ac/lym8467/)
 
 ###  🐲About Me   
-- 🎓INHA UNIV Information and Communication Engineering (2020.03 ~ 2025.02)
+- 🎓INHA ICE (2020.03 ~ 2025.02)
 - 💻Information Processing Engineer  
 
 ### 🛠 Tech Skills
